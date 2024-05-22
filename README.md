@@ -21,8 +21,8 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 ```
-Developed By: ROSHINI RK
-Reg No: 21222220123
+Developed By: LOGESH S
+Reg No: 2305001014
 ```
 
 ![image](https://github.com/logesh1326/Correlation_Regression/assets/153622874/3fe8539e-3e72-4fd5-ad77-dc1f8b0c8958)
