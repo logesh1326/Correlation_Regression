@@ -27,12 +27,8 @@ Reg No: 21222220123
 
 ![image](https://github.com/logesh1326/Correlation_Regression/assets/153622874/3fe8539e-3e72-4fd5-ad77-dc1f8b0c8958)
 
-
-
-
-
 # Output 
 ![image](https://github.com/logesh1326/Correlation_Regression/assets/153622874/978275c6-4f5c-42f0-baf5-645be9cfc48e)
 
 # Result
-
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated
